@@ -1,5 +1,5 @@
-# docker.io/go-docker
-Official Go SDK for Docker
+# docker.io/go-docker (WIP)
+Soon-to-be-official Go SDK for Docker. **This is still work in progress!**
 
 ## Dependency management tool is required
 
